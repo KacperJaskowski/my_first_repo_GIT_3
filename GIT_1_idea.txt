@@ -1,0 +1,1 @@
+System kontroli wersji można zastosować do dokumentowania i śledzenia procesu projektowania leku. Ułatwiłoby to obserwowanie oraz analizowanie zmian zachodzących w strukturze modyfikowanej cząsteczki, porównywanie ich ze sobą, a także wybór najkorzystniejszej spośród nich.
