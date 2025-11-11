@@ -1,0 +1,9 @@
+#Zapis zmian w przykładzie z zad 5
+##Pierwszy przykład
+Dodano plik o nazwie drugi_plik.txt
+Do pliku dodano dwie linie tekstu widoczne pod zankami + 
+	+"Lorem ipsum…"
+	+
+##Drugi przykład
+do pliku o nazwie nowy_plik.txt dodano jedną linijkę tekstu
+	+hello world
