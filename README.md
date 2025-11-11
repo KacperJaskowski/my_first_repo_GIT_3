@@ -2,3 +2,5 @@
 
 Kacper Jaśkowski - pd5218
 
+Praca z gałęziami i rozwiązywanie konfliktów
+
