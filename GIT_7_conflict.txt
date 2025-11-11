@@ -2,7 +2,8 @@
 
 Kacper Jaśkowski - pd5218
 
+<<<<<<< HEAD
 Praca z gałęziami i rozwiązywanie konfliktów
+=======
 Tym wpisem chcemy spowodować konflikt
-
-
+>>>>>>> test
