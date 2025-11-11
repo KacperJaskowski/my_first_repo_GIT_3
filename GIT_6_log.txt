@@ -1,0 +1,24 @@
+$ git log
+commit 50c5aaae62f2930cc99fffb3e33702e600bdb862 (HEAD -> master)
+Author: KacperJaskowski <kacper.kaskowski03@gmail.com>
+Date:   Tue Nov 11 21:58:11 2025 +0100
+
+    Dodano plik z opisem zmian w repozytorium z zad 5
+
+commit f0f9aa88933d415ed25b26a497d15f4ac0c6a244
+Author: KacperJaskowski <kacper.kaskowski03@gmail.com>
+Date:   Tue Nov 11 21:31:49 2025 +0100
+
+    Dodano nazwe przedmiotu i dane osobowe
+
+commit 91bc26f43528361af7bb99f97b79b024d8a79258
+Author: KacperJaskowski <kacper.kaskowski03@gmail.com>
+Date:   Mon Nov 3 22:27:23 2025 +0100
+
+    Dodano pliki statusu i przywrócono GIT_4_status1.txt
+
+commit 2cfa20c6766417da6e3de471341260a81ab139b0
+Author: KacperJaskowski <kacper.kaskowski03@gmail.com>
+Date:   Mon Nov 3 22:25:46 2025 +0100
+
+    Dodano pliki statusu GIT_4_status1.txt i GIT_4_status2.txt

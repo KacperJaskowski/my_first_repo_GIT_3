@@ -1,0 +1,24 @@
+$ git show
+commit 50c5aaae62f2930cc99fffb3e33702e600bdb862 (HEAD -> master)
+Author: KacperJaskowski <kacper.kaskowski03@gmail.com>
+Date:   Tue Nov 11 21:58:11 2025 +0100
+
+    Dodano plik z opisem zmian w repozytorium z zad 5
+
+diff --git a/GIT_5_diff.txt b/GIT_5_diff.txt
+new file mode 100644
+index 0000000..79c80b8
+--- /dev/null
++++ b/GIT_5_diff.txt
+@@ -0,0 +1,9 @@
++#Zapis zmian w przykładzie z zad 5
++##Pierwszy przykład
++Dodano plik o nazwie drugi_plik.txt
++Do pliku dodano dwie linie tekstu widoczne pod zankami +
++       +Lorem ipsum…
++       +
++##Drugi przykład
++do pliku o nazwie nowy_plik.txt dodano jedną linijkę tekstu
++       +hello world
+\ No newline at end of file
+
