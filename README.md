@@ -2,3 +2,5 @@
 
 Kacper Jaśkowski - pd5218
 
+Tym wpisem chcemy spowodować konflikt
+
