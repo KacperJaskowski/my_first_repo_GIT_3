@@ -1,0 +1,40 @@
+d0d6146 HEAD@{0}: commit: Stan rewizji po użyciu git reset --hard HEAD~1
+b2e2183 HEAD@{1}: reset: moving to HEAD~1
+eea4fff HEAD@{2}: commit: Zapis stanu rewizji po zad 8
+b2e2183 HEAD@{3}: commit: przeniesienie commitu z innej gałęzi
+f5758db HEAD@{4}: cherry-pick: Dodananie rebase.txt i cherrypick.txt
+b2ac7d0 HEAD@{5}: checkout: moving from test to master
+02ac128 HEAD@{6}: checkout: moving from master to test
+b2ac7d0 HEAD@{7}: checkout: moving from test to master
+02ac128 HEAD@{8}: commit: Dodananie rebase.txt i cherrypick.txt
+41424a2 HEAD@{9}: checkout: moving from master to test
+b2ac7d0 HEAD@{10}: rebase (finish): returning to refs/heads/master
+b2ac7d0 HEAD@{11}: rebase (squash): Scalono gałąź test i przywrócono stash
+d4412db HEAD@{12}: rebase (start): checkout HEAD~2
+e4c5e08 HEAD@{13}: commit: Commit przd rebase
+d4412db HEAD@{14}: commit: Scalono gałąź test i przywrócono stash
+3ff21e6 HEAD@{15}: merge test: Merge made by the 'ort' strategy.
+167bd1f HEAD@{16}: checkout: moving from test to master
+41424a2 HEAD@{17}: commit: Różnica między commitami
+abdc33c HEAD@{18}: commit: Zapisano log na gałęzi test
+8116e95 HEAD@{19}: checkout: moving from master to test
+167bd1f HEAD@{20}: commit: zapisano listę stash i status repozytorium
+25e9f4e HEAD@{21}: reset: moving to HEAD
+25e9f4e HEAD@{22}: commit: git log rozwiazanego konfliktu
+24cc1bf HEAD@{23}: commit (merge): funkcja merge i rozwiazany konflikt
+8a2e016 HEAD@{24}: checkout: moving from test to master
+8116e95 HEAD@{25}: commit: Wywołanie konfliktu
+015321e HEAD@{26}: checkout: moving from test to test
+015321e HEAD@{27}: checkout: moving from master to test
+8a2e016 HEAD@{28}: commit: Praca z gałęziami i rozwiązywanie konfliktów
+dc15e34 HEAD@{29}: checkout: moving from test to master
+015321e HEAD@{30}: commit: ls, status, log
+dc15e34 HEAD@{31}: checkout: moving from test to test
+dc15e34 HEAD@{32}: checkout: moving from master to test
+dc15e34 HEAD@{33}: commit: test git log, git log --oneline i git show
+50c5aaa HEAD@{34}: commit: Dodano plik z opisem zmian w repozytorium z zad 5
+f0f9aa8 HEAD@{35}: commit: Dodano nazwe przedmiotu i dane osobowe
+91bc26f HEAD@{36}: commit: Dodano pliki statusu i przywrócono GIT_4_status1.txt
+2cfa20c HEAD@{37}: commit: Dodano pliki statusu GIT_4_status1.txt i GIT_4_status2.txt
+8acd42b HEAD@{38}: commit: dodanie GIT_2_version
+e0f8ad7 HEAD@{39}: commit (initial): Add Git version info to GIT_2_version.txt
