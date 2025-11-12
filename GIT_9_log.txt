@@ -1,0 +1,121 @@
+commit b2e218301f9f88d278edf0fee0bf2822629830cc
+Author: KacperJaskowski <kacper.kaskowski03@gmail.com>
+Date:   Wed Nov 12 00:32:30 2025 +0100
+
+    przeniesienie commitu z innej gałęzi
+
+commit f5758db3c54eb9755cf1e9e8b98ce3f08474cb09
+Author: KacperJaskowski <kacper.kaskowski03@gmail.com>
+Date:   Wed Nov 12 00:27:46 2025 +0100
+
+    Dodananie rebase.txt i cherrypick.txt
+
+commit b2ac7d05541e2b813886056a17b850347d3c8192
+Author: KacperJaskowski <kacper.kaskowski03@gmail.com>
+Date:   Wed Nov 12 00:18:01 2025 +0100
+
+    Scalono gałąź test i przywrócono stash
+    
+    Commit przd rebase
+
+commit 3ff21e653c40206e48418975ec3692622dd421a5
+Merge: 167bd1f 41424a2
+Author: KacperJaskowski <kacper.kaskowski03@gmail.com>
+Date:   Wed Nov 12 00:14:03 2025 +0100
+
+    Merge branch 'test'
+    merge testu i master po git diff i stash
+
+commit 41424a24cbb54452788b18af15dd25f62c930ae4
+Author: KacperJaskowski <kacper.kaskowski03@gmail.com>
+Date:   Wed Nov 12 00:13:36 2025 +0100
+
+    Różnica między commitami
+
+commit abdc33c1d353480143f99dbe9d01dc4bc17b6d8a
+Author: KacperJaskowski <kacper.kaskowski03@gmail.com>
+Date:   Wed Nov 12 00:11:24 2025 +0100
+
+    Zapisano log na gałęzi test
+
+commit 167bd1f2fa61031941b51938a8837bd0f482e70d
+Author: KacperJaskowski <kacper.kaskowski03@gmail.com>
+Date:   Wed Nov 12 00:09:01 2025 +0100
+
+    zapisano listę stash i status repozytorium
+
+commit 25e9f4e376e414e2b9829bc2cc90878dbb6e10df
+Author: KacperJaskowski <kacper.kaskowski03@gmail.com>
+Date:   Tue Nov 11 23:37:57 2025 +0100
+
+    git log rozwiazanego konfliktu
+
+commit 24cc1bfe07b99e1c178c57fb5c077313d878d520
+Merge: 8a2e016 8116e95
+Author: KacperJaskowski <kacper.kaskowski03@gmail.com>
+Date:   Tue Nov 11 23:34:54 2025 +0100
+
+    funkcja merge i rozwiazany konflikt
+
+commit 8116e95679a31bb9a3315e3c8cdec7b4343b0912
+Author: KacperJaskowski <kacper.kaskowski03@gmail.com>
+Date:   Tue Nov 11 23:28:30 2025 +0100
+
+    Wywołanie konfliktu
+
+commit 8a2e01637a42c2a03e59f1fea7ee922b04189acb
+Author: KacperJaskowski <kacper.kaskowski03@gmail.com>
+Date:   Tue Nov 11 23:26:27 2025 +0100
+
+    Praca z gałęziami i rozwiązywanie konfliktów
+
+commit 015321e5c58d7fc1ea5b986826c36bfefeefe0a3
+Author: KacperJaskowski <kacper.kaskowski03@gmail.com>
+Date:   Tue Nov 11 23:21:13 2025 +0100
+
+    ls, status, log
+    
+    wyswietlono zawartosc katalogu, stan i historie repozytorium
+
+commit dc15e3468899c9a5b123fda6af054e586254ea24
+Author: KacperJaskowski <kacper.kaskowski03@gmail.com>
+Date:   Tue Nov 11 22:26:49 2025 +0100
+
+    test git log, git log --oneline i git show
+
+commit 50c5aaae62f2930cc99fffb3e33702e600bdb862
+Author: KacperJaskowski <kacper.kaskowski03@gmail.com>
+Date:   Tue Nov 11 21:58:11 2025 +0100
+
+    Dodano plik z opisem zmian w repozytorium z zad 5
+
+commit f0f9aa88933d415ed25b26a497d15f4ac0c6a244
+Author: KacperJaskowski <kacper.kaskowski03@gmail.com>
+Date:   Tue Nov 11 21:31:49 2025 +0100
+
+    Dodano nazwe przedmiotu i dane osobowe
+
+commit 91bc26f43528361af7bb99f97b79b024d8a79258
+Author: KacperJaskowski <kacper.kaskowski03@gmail.com>
+Date:   Mon Nov 3 22:27:23 2025 +0100
+
+    Dodano pliki statusu i przywrócono GIT_4_status1.txt
+
+commit 2cfa20c6766417da6e3de471341260a81ab139b0
+Author: KacperJaskowski <kacper.kaskowski03@gmail.com>
+Date:   Mon Nov 3 22:25:46 2025 +0100
+
+    Dodano pliki statusu GIT_4_status1.txt i GIT_4_status2.txt
+
+commit 8acd42b8f090b53068cab6919a8c0ab7802d4631
+Author: KacperJaskowski <kacper.kaskowski03@gmail.com>
+Date:   Mon Nov 3 22:20:08 2025 +0100
+
+    dodanie GIT_2_version
+    dodanie GIT_1_idea
+
+commit e0f8ad7608cc02426a876209e41e7b59c604cc00
+Author: KacperJaskowski <kacper.kaskowski03@gmail.com>
+Date:   Mon Nov 3 22:06:31 2025 +0100
+
+    Add Git version info to GIT_2_version.txt
