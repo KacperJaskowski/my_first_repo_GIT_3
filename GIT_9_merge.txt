@@ -1,0 +1,29 @@
+*   a5702c6 Merge branch 'skasowany-commit' scalanie skasowanej galezi z główną
+|\  
+| * eef7b9b odzyskano commit i utworzono nową gałąź
+| * eea4fff Zapis stanu rewizji po zad 8
+* | 5dbb2bd git reflog
+* | d0d6146 Stan rewizji po użyciu git reset --hard HEAD~1
+|/  
+* b2e2183 przeniesienie commitu z innej gałęzi
+* f5758db Dodananie rebase.txt i cherrypick.txt
+* b2ac7d0 Scalono gałąź test i przywrócono stash
+*   3ff21e6 Merge branch 'test' merge testu i master po git diff i stash
+|\  
+| * 41424a2 Różnica między commitami
+| * abdc33c Zapisano log na gałęzi test
+* | 167bd1f zapisano listę stash i status repozytorium
+* | 25e9f4e git log rozwiazanego konfliktu
+* | 24cc1bf funkcja merge i rozwiazany konflikt
+|\| 
+| * 8116e95 Wywołanie konfliktu
+| * 015321e ls, status, log
+* | 8a2e016 Praca z gałęziami i rozwiązywanie konfliktów
+|/  
+* dc15e34 test git log, git log --oneline i git show
+* 50c5aaa Dodano plik z opisem zmian w repozytorium z zad 5
+* f0f9aa8 Dodano nazwe przedmiotu i dane osobowe
+* 91bc26f Dodano pliki statusu i przywrócono GIT_4_status1.txt
+* 2cfa20c Dodano pliki statusu GIT_4_status1.txt i GIT_4_status2.txt
+* 8acd42b dodanie GIT_2_version dodanie GIT_1_idea
+* e0f8ad7 Add Git version info to GIT_2_version.txt
